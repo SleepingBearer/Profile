@@ -1,2 +1,2 @@
-Name: Ding Bin \n
-Email: dingbin01@baidu.com
+- Name: Ding Bin 
+- Email: dingbin01@baidu.com
