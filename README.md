@@ -1,2 +1,2 @@
-[name](Ding Bin)
-[Email](dingbin01@baidu.com)
+name: Ding Bin
+Email: dingbin01@baidu.com
